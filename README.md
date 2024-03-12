@@ -1,5 +1,7 @@
 # elastic_net_medium
 
+![image](https://github.com/CJTAYL/elastic_net_medium/assets/64110892/bc9b15ad-9861-4c00-95ea-7352e0c8d43d)
+
 In this repository are three .py files and one .ipynb file containing code used to write the article Elastic Net Regression: A Brief Tutorial.
 
 The .ipynb file contains the code used in the article.
