@@ -18,4 +18,4 @@ Functions in eda.py
 - gen_violin_by_category() *
 - gen_corr_matrix_hmap()
 
-* Indicates the function was not used in the tutorial. 
+An * indicates a function was not used in the tutorial. 
